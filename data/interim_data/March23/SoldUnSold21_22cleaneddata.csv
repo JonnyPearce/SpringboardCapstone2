@@ -1,0 +1,783 @@
+,Player,Country,Team,Type,Auction_Base_price,Auc_Base_price_pounds
+0,Deepak Chahar,India,Chennai Super Kings,Bowler,140000000,1396080.0
+1,Ambati Rayudu,India,Chennai Super Kings,Wicket-Keeper,67500000,673110.0
+2,Dwayne Bravo,West Indies,Chennai Super Kings,All-Rounder,44000000,438768.0
+3,Shivam Dube,India,Chennai Super Kings,All-Rounder,40000000,398880.0
+4,Chris Jordan,England,Chennai Super Kings,All-Rounder,36000000,358992.0
+5,Robin Uthappa,India,Chennai Super Kings,Batsman,20000000,199440.0
+6,Mitchell Santner,New Zealand,Chennai Super Kings,All-Rounder,19000000,189468.0
+7,Adam Milne,New Zealand,Chennai Super Kings,Bowler,19000000,189468.0
+8,Rajvardhan Hangargekar,India,Chennai Super Kings,All-Rounder,15000000,149580.0
+9,Prashant Solanki,India,Chennai Super Kings,Bowler,12000000,119664.0
+10,Devon Conway,New Zealand,Chennai Super Kings,Batsman,10000000,99720.0
+11,Maheesh Theekshana,Sri Lanka,Chennai Super Kings,Bowler,7000000,69804.0
+12,Dwaine Pretorius,South Africa,Chennai Super Kings,All-Rounder,5000000,49860.0
+13,C.Hari Nishaanth,India,Chennai Super Kings,Batsman,2000000,19944.0
+14,Tushar Deshpande,India,Chennai Super Kings,Bowler,2000000,19944.0
+15,Simarjeet Singh,India,Chennai Super Kings,Bowler,2000000,19944.0
+16,Subhranshu Senapati,India,Chennai Super Kings,Batsman,2000000,19944.0
+17,Mukesh Choudhary,India,Chennai Super Kings,Bowler,2000000,19944.0
+18,K.Bhagath Varma,India,Chennai Super Kings,All-Rounder,2000000,19944.0
+19,Shardul Thakur,India,Delhi Capitals,Bowler,107500000,1071990.0
+20,Mitchell Marsh,Australia,Delhi Capitals,All-Rounder,65000000,648180.0
+21,David Warner,Australia,Delhi Capitals,Batsman,62500000,623250.0
+22,Syed Khaleel Ahmed,India,Delhi Capitals,Bowler,52500000,523530.0
+23,Chetan Sakariya,India,Delhi Capitals,Bowler,42000000,418824.0
+24,Rovman Powell,West Indies,Delhi Capitals,Batsman,28000000,279216.0
+25,Mustafizur Rahman,Bangladesh,Delhi Capitals,Bowler,20000000,199440.0
+26,Kuldeep Yadav,India,Delhi Capitals,Bowler,20000000,199440.0
+27,Kamlesh Nagarkoti,India,Delhi Capitals,All-Rounder,11000000,109692.0
+28,Lalit Yadav,India,Delhi Capitals,All-Rounder,6500000,64818.0
+29,Lungisani Ngidi,South Africa,Delhi Capitals,Bowler,5000000,49860.0
+30,Yash Dhull,India,Delhi Capitals,All-Rounder,5000000,49860.0
+31,Tim Seifert,New Zealand,Delhi Capitals,Wicket-Keeper,5000000,49860.0
+32,Pravin Dubey,India,Delhi Capitals,All-Rounder,5000000,49860.0
+33,Ashwin Hebbar,India,Delhi Capitals,Batsman,2000000,19944.0
+34,Sarfaraz Khan,India,Delhi Capitals,All-Rounder,2000000,19944.0
+35,Vicky Ostwal,India,Delhi Capitals,All-Rounder,2000000,19944.0
+36,Ripal Patel,India,Delhi Capitals,All-Rounder,2000000,19944.0
+37,Lockie Ferguson,New Zealand,Gujarat Titans,Bowler,100000000,997200.0
+38,Rahul Tewatia,India,Gujarat Titans,All-Rounder,90000000,897480.0
+39,Mohammad Shami,India,Gujarat Titans,Bowler,62500000,623250.0
+40,Yash Dayal,India,Gujarat Titans,Bowler,32000000,319104.0
+41,David Miller,South Africa,Gujarat Titans,Batsman,30000000,299160.0
+42,R. Sai Kishore,India,Gujarat Titans,Bowler,30000000,299160.0
+43,Abhinav Sadarangani,India,Gujarat Titans,Batsman,26000000,259272.0
+44,Matthew Wade,Australia,Gujarat Titans,Wicket-Keeper,24000000,239328.0
+45,Alzarri Joseph,West Indies,Gujarat Titans,Bowler,24000000,239328.0
+46,Jason Roy,England,Gujarat Titans,Batsman,20000000,199440.0
+47,Wriddhiman Saha,India,Gujarat Titans,Wicket-Keeper,19000000,189468.0
+48,Jayant Yadav,India,Gujarat Titans,All-Rounder,17000000,169524.0
+49,Vijay Shankar,India,Gujarat Titans,All-Rounder,14000000,139608.0
+50,Dominic Drakes,West Indies,Gujarat Titans,All-Rounder,11000000,109692.0
+51,Gurkeerat Singh,India,Gujarat Titans,All-Rounder,5000000,49860.0
+52,Varun Aaron,India,Gujarat Titans,Bowler,5000000,49860.0
+53,Noor Ahmad,Afghanistan,Gujarat Titans,Bowler,3000000,29916.0
+54,Darshan Nalkande,India,Gujarat Titans,All-Rounder,2000000,19944.0
+55,B. Sai Sudharsan,India,Gujarat Titans,All-Rounder,2000000,19944.0
+56,Pradeep Sangwan,India,Gujarat Titans,All-Rounder,2000000,19944.0
+57,Shreyas Iyer,India,Kolkata Knight Riders,Batsman,122500000,1221570.0
+58,Nitish Rana,India,Kolkata Knight Riders,All-Rounder,80000000,797760.0
+59,Pat Cummins,Australia,Kolkata Knight Riders,All-Rounder,72500000,722970.0
+60,Sam Billings,England,Kolkata Knight Riders,Wicket-Keeper,20000000,199440.0
+61,Umesh Yadav,India,Kolkata Knight Riders,Bowler,20000000,199440.0
+62,Alex Hales,England,Kolkata Knight Riders,Batsman,15000000,149580.0
+63,Tim Southee,New Zealand,Kolkata Knight Riders,Bowler,15000000,149580.0
+64,Mohammad Nabi,Afghanistan,Kolkata Knight Riders,All-Rounder,10000000,99720.0
+65,Sheldon Jackson,India,Kolkata Knight Riders,Wicket-Keeper,6000000,59832.0
+66,Rinku Singh,India,Kolkata Knight Riders,Batsman,5500000,54846.0
+67,Ashok Sharma,India,Kolkata Knight Riders,Bowler,5500000,54846.0
+68,Chamika Karunaratne,Sri Lanka,Kolkata Knight Riders,All-Rounder,5000000,49860.0
+69,Abhijeet Tomar,India,Kolkata Knight Riders,Batsman,4000000,39888.0
+70,Anukul Roy,India,Kolkata Knight Riders,All-Rounder,2000000,19944.0
+71,Rasikh Dar,India,Kolkata Knight Riders,Bowler,2000000,19944.0
+72,Baba Indrajith,India,Kolkata Knight Riders,Wicket-Keeper,2000000,19944.0
+73,Aman Khan,India,Kolkata Knight Riders,All-Rounder,2000000,19944.0
+74,Ramesh Kumar,India,Kolkata Knight Riders,Batsman,2000000,19944.0
+75,Pratham Singh,India,Kolkata Knight Riders,Batsman,2000000,19944.0
+76,Avesh Khan,India,Lucknow Super Giants,Bowler,100000000,997200.0
+77,Krunal Pandya,India,Lucknow Super Giants,All-Rounder,82500000,822690.0
+78,Mark Wood,England,Lucknow Super Giants,Bowler,75000000,747900.0
+79,Quinton De Kock,South Africa,Lucknow Super Giants,Wicket-Keeper,67500000,673110.0
+80,Deepak Hooda,India,Lucknow Super Giants,All-Rounder,57500000,573390.0
+81,Dushmanta Chameera,Sri Lanka,Lucknow Super Giants,Bowler,20000000,199440.0
+82,Evin Lewis,West Indies,Lucknow Super Giants,Batsman,20000000,199440.0
+83,K. Gowtham,India,Lucknow Super Giants,All-Rounder,9000000,89748.0
+84,Ankit Singh Rajpoot,India,Lucknow Super Giants,Bowler,5000000,49860.0
+85,Shahbaz Nadeem,India,Lucknow Super Giants,Bowler,5000000,49860.0
+86,Kyle Mayers,West Indies,Lucknow Super Giants,All-Rounder,5000000,49860.0
+87,Manan Vohra,India,Lucknow Super Giants,Batsman,2000000,19944.0
+88,Mohsin Khan,India,Lucknow Super Giants,Bowler,2000000,19944.0
+89,Mayank Yadav,India,Lucknow Super Giants,Bowler,2000000,19944.0
+90,Ayush Badoni,India,Lucknow Super Giants,All-Rounder,2000000,19944.0
+91,Karan Sharma,India,Lucknow Super Giants,All-Rounder,2000000,19944.0
+92,Ishan Kishan,India,Mumbai Indians,Wicket-Keeper,152500000,1520730.0
+93,Tim David,Singapore,Mumbai Indians,All-Rounder,82500000,822690.0
+94,Jofra Archer,England,Mumbai Indians,All-Rounder,80000000,797760.0
+95,Dewald Brevis,South Africa,Mumbai Indians,Batsman,30000000,299160.0
+96,N. Tilak Varma,India,Mumbai Indians,All-Rounder,17000000,169524.0
+97,Tymal Mills,England,Mumbai Indians,Bowler,15000000,149580.0
+98,Riley Meredith,Australia,Mumbai Indians,Bowler,10000000,99720.0
+99,Fabian Allen,West Indies,Mumbai Indians,All-Rounder,7500000,74790.0
+100,Sanjay Yadav,India,Mumbai Indians,All-Rounder,5000000,49860.0
+101,Basil Thampi,India,Mumbai Indians,Bowler,3000000,29916.0
+102,Arjun Tendulkar,India,Mumbai Indians,All-Rounder,3000000,29916.0
+103,Ramandeep Singh,India,Mumbai Indians,All-Rounder,2000000,19944.0
+104,Aryan Juyal,India,Mumbai Indians,Wicket-Keeper,2000000,19944.0
+105,Rahul Buddhi,India,Mumbai Indians,Batsman,2000000,19944.0
+106,Hrithik Shokeen,India,Mumbai Indians,All-Rounder,2000000,19944.0
+107,Mohd. Arshad Khan,India,Mumbai Indians,All-Rounder,2000000,19944.0
+108,Liam Livingstone,England,Punjab Kings,All-Rounder,115000000,1146780.0
+109,Kagiso Rabada,South Africa,Punjab Kings,Bowler,92500000,922410.0
+110,Shahrukh Khan,India,Punjab Kings,All-Rounder,90000000,897480.0
+111,Shikhar Dhawan,India,Punjab Kings,Batsman,82500000,822690.0
+112,Jonny Bairstow,England,Punjab Kings,Wicket-Keeper,67500000,673110.0
+113,Rahul Chahar,India,Punjab Kings,Bowler,52500000,523530.0
+114,Harpreet Brar,India,Punjab Kings,All-Rounder,38000000,378936.0
+115,Raj Angad Bawa,India,Punjab Kings,All-Rounder,20000000,199440.0
+116,Nathan Ellis,Australia,Punjab Kings,Bowler,7500000,74790.0
+117,Prabhsimran Singh,India,Punjab Kings,Wicket-Keeper,6000000,59832.0
+118,Rishi Dhawan,India,Punjab Kings,All-Rounder,5500000,54846.0
+119,Sandeep Sharma,India,Punjab Kings,Bowler,5000000,49860.0
+120,Bhanuka Rajapaksa,Sri Lanka,Punjab Kings,Batsman,5000000,49860.0
+121,Benny Howell,England,Punjab Kings,All-Rounder,4000000,39888.0
+122,Ishan Porel,India,Punjab Kings,Bowler,2500000,24930.0
+123,Jitesh Sharma,India,Punjab Kings,Wicket-Keeper,2000000,19944.0
+124,Atharva Taide,India,Punjab Kings,All-Rounder,2000000,19944.0
+125,Writtick Chatterjee,India,Punjab Kings,All-Rounder,2000000,19944.0
+126,Baltej Dhanda,India,Punjab Kings,Bowler,2000000,19944.0
+127,Ansh Patel,India,Punjab Kings,All-Rounder,2000000,19944.0
+128,Prasidh Krishna,India,Rajasthan Royals,Bowler,100000000,997200.0
+129,Shimron Hetmyer,West Indies,Rajasthan Royals,Batsman,85000000,847620.0
+130,Trent Boult,New Zealand,Rajasthan Royals,Bowler,80000000,797760.0
+131,Devdutt Padikkal,India,Rajasthan Royals,Batsman,77500000,772830.0
+132,Yuzvendra Chahal,India,Rajasthan Royals,Bowler,65000000,648180.0
+133,R. Ashwin,India,Rajasthan Royals,All-Rounder,50000000,498600.0
+134,Riyan Parag,India,Rajasthan Royals,All-Rounder,38000000,378936.0
+135,Navdeep Saini,India,Rajasthan Royals,Bowler,26000000,259272.0
+136,Nathan Coulter-Nile,Australia,Rajasthan Royals,Bowler,20000000,199440.0
+137,James Neesham,New Zealand,Rajasthan Royals,All-Rounder,15000000,149580.0
+138,Karun Nair,India,Rajasthan Royals,Batsman,14000000,139608.0
+139,Rassie Van Der Dussen,South Africa,Rajasthan Royals,Batsman,10000000,99720.0
+140,Daryl Mitchell,New Zealand,Rajasthan Royals,All-Rounder,7500000,74790.0
+141,Obed McCoy,West Indies,Rajasthan Royals,Bowler,7500000,74790.0
+142,K.C Cariappa,India,Rajasthan Royals,Bowler,3000000,29916.0
+143,Kuldeep Sen,India,Rajasthan Royals,Bowler,2000000,19944.0
+144,Dhruv Jurel,India,Rajasthan Royals,Wicket-Keeper,2000000,19944.0
+145,Tejas Baroka,India,Rajasthan Royals,Bowler,2000000,19944.0
+146,Kuldip Yadav,India,Rajasthan Royals,Bowler,2000000,19944.0
+147,Shubham Garhwal,India,Rajasthan Royals,All-Rounder,2000000,19944.0
+148,Anunay Singh,India,Rajasthan Royals,All-Rounder,2000000,19944.0
+149,Wanindu Hasaranga,Sri Lanka,Royal Challengers Bangalore,All-Rounder,107500000,1071990.0
+150,Harshal Patel,India,Royal Challengers Bangalore,All-Rounder,107500000,1071990.0
+151,Josh Hazlewood,Australia,Royal Challengers Bangalore,Bowler,77500000,772830.0
+152,Faf Du Plessis,South Africa,Royal Challengers Bangalore,Batsman,70000000,698040.0
+153,Dinesh Karthik,India,Royal Challengers Bangalore,Wicket-Keeper,55000000,548460.0
+154,Anuj Rawat,India,Royal Challengers Bangalore,Wicket-Keeper,34000000,339048.0
+155,Shahbaz Ahamad,India,Royal Challengers Bangalore,All-Rounder,24000000,239328.0
+156,David Willey,England,Royal Challengers Bangalore,All-Rounder,20000000,199440.0
+157,Sherfane Rutherford,West Indies,Royal Challengers Bangalore,All-Rounder,10000000,99720.0
+158,Mahipal Lomror,India,Royal Challengers Bangalore,All-Rounder,9500000,94734.0
+159,Finn Allen,New Zealand,Royal Challengers Bangalore,Batsman,8000000,79776.0
+160,Jason Behrendorff,Australia,Royal Challengers Bangalore,Bowler,7500000,74790.0
+161,Siddharth Kaul,India,Royal Challengers Bangalore,Bowler,7500000,74790.0
+162,Karn Sharma,India,Royal Challengers Bangalore,Bowler,5000000,49860.0
+163,Suyash Prabhudessai,India,Royal Challengers Bangalore,All-Rounder,3000000,29916.0
+164,Chama Milind,India,Royal Challengers Bangalore,Bowler,2500000,24930.0
+165,Akash Deep,India,Royal Challengers Bangalore,Bowler,2000000,19944.0
+166,Luvnith Sisodia,India,Royal Challengers Bangalore,Wicket-Keeper,2000000,19944.0
+167,Aneeshwar Gautam,India,Royal Challengers Bangalore,All-Rounder,2000000,19944.0
+168,Washington Sundar,India,Sunrisers Hyderabad,All-Rounder,87500000,872550.0
+169,Rahul Tripathi,India,Sunrisers Hyderabad,Batsman,85000000,847620.0
+170,Abhishek Sharma,India,Sunrisers Hyderabad,All-Rounder,65000000,648180.0
+171,Bhuvneshwar Kumar,India,Sunrisers Hyderabad,Bowler,42000000,418824.0
+172,Marco Jansen,South Africa,Sunrisers Hyderabad,All-Rounder,42000000,418824.0
+173,T. Natarajan,India,Sunrisers Hyderabad,Bowler,40000000,398880.0
+174,Kartik Tyagi,India,Sunrisers Hyderabad,Bowler,40000000,398880.0
+175,Aiden Markram,South Africa,Sunrisers Hyderabad,Batsman,26000000,259272.0
+176,Sean Abbott,Australia,Sunrisers Hyderabad,Bowler,24000000,239328.0
+177,Glenn Phillips,New Zealand,Sunrisers Hyderabad,Wicket-Keeper,15000000,149580.0
+178,Shreyas Gopal,India,Sunrisers Hyderabad,Bowler,7500000,74790.0
+179,Fazalhaq Farooqi,Afghanistan,Sunrisers Hyderabad,Bowler,5000000,49860.0
+180,Priyam Garg,India,Sunrisers Hyderabad,Batsman,2000000,19944.0
+181,Jagadeesha Suchith,India,Sunrisers Hyderabad,Bowler,2000000,19944.0
+182,R Samarth,India,Sunrisers Hyderabad,Batsman,2000000,19944.0
+183,Shashank Singh,India,Sunrisers Hyderabad,All-Rounder,2000000,19944.0
+184,Saurabh Dubey,India,Sunrisers Hyderabad,Bowler,2000000,19944.0
+185,Suresh Raina,India,Unsold,Batsman,20000000,199440.0
+186,Steve Smith,Australia,Unsold,Batsman,20000000,199440.0
+187,Imran Tahir,South Africa,Unsold,Bowler,20000000,199440.0
+188,Mujeeb Zadran,Afghanistan,Unsold,Bowler,20000000,199440.0
+189,James Vince,England,Unsold,Batsman,20000000,199440.0
+190,Marchant De Lange,South Africa,Unsold,Bowler,20000000,199440.0
+191,Saqib Mahmood,England,Unsold,Bowler,20000000,199440.0
+192,Ashton Agar,Australia,Unsold,All-Rounder,20000000,199440.0
+193,Craig Overton,England,Unsold,All-Rounder,20000000,199440.0
+194,Aaron Finch,Australia,Unsold,Batsman,15000000,149580.0
+195,Dawid Malan,England,Unsold,Batsman,15000000,149580.0
+196,Eoin Morgan,England,Unsold,Batsman,15000000,149580.0
+197,Chris Lynn,Australia,Unsold,Batsman,15000000,149580.0
+198,Usman Khawaja,Australia,Unsold,Batsman,15000000,149580.0
+199,Lewis Gregory,England,Unsold,All-Rounder,15000000,149580.0
+200,Kane Richardson,Australia,Unsold,Bowler,15000000,149580.0
+201,Colin Munro,New Zealand,Unsold,All-Rounder,15000000,149580.0
+202,Marnus Labuschagne,Australia,Unsold,Batsman,10000000,99720.0
+203,Tabraiz Shamsi,South Africa,Unsold,Bowler,10000000,99720.0
+204,Joshua Philippe,Australia,Unsold,Wicket-Keeper,10000000,99720.0
+205,Andrew Tye,Australia,Unsold,Bowler,10000000,99720.0
+206,Roston Chase,West Indies,Unsold,All-Rounder,10000000,99720.0
+207,Moises Henriques,Australia,Unsold,All-Rounder,10000000,99720.0
+208,Kedar Jadhav,India,Unsold,All-Rounder,10000000,99720.0
+209,Colin De Grandhomme,New Zealand,Unsold,All-Rounder,10000000,99720.0
+210,James Faulkner,Australia,Unsold,All-Rounder,10000000,99720.0
+211,D'Arcy Short,Australia,Unsold,All-Rounder,10000000,99720.0
+212,Sheldon Cottrell,West Indies,Unsold,Bowler,7500000,74790.0
+213,Todd Astle,New Zealand,Unsold,Bowler,7500000,74790.0
+214,Martin Guptill,New Zealand,Unsold,Batsman,7500000,74790.0
+215,Ben Cutting,Australia,Unsold,All-Rounder,7500000,74790.0
+216,Scott Kuggeleijn,New Zealand,Unsold,All-Rounder,7500000,74790.0
+217,Dhawal Kulkarni,India,Unsold,Bowler,7500000,74790.0
+218,Darren Bravo,West Indies,Unsold,Batsman,7500000,74790.0
+219,Carlos Brathwaite,West Indies,Unsold,All-Rounder,7500000,74790.0
+220,Keemo Paul,West Indies,Unsold,All-Rounder,7500000,74790.0
+221,Billy Stanlake,Australia,Unsold,Bowler,7500000,74790.0
+222,Cheteshwar Pujara,India,Unsold,Batsman,5000000,49860.0
+223,Saurabh Tiwary,India,Unsold,Batsman,5000000,49860.0
+224,Qais Ahmad,Afghanistan,Unsold,Bowler,5000000,49860.0
+225,Ish Sodhi,New Zealand,Unsold,Bowler,5000000,49860.0
+226,Najibullah Zadran,Afghanistan,Unsold,Batsman,5000000,49860.0
+227,Charith Asalanka,Sri Lanka,Unsold,All-Rounder,5000000,49860.0
+228,George Garton,England,Unsold,All-Rounder,5000000,49860.0
+229,Niroshan Dickwella,Sri Lanka,Unsold,Wicket-Keeper,5000000,49860.0
+230,Andre Fletcher,West Indies,Unsold,Wicket-Keeper,5000000,49860.0
+231,Rahmanullah Gurbaz,Afghanistan,Unsold,Wicket-Keeper,5000000,49860.0
+232,Shai Hope,West Indies,Unsold,Wicket-Keeper,5000000,49860.0
+233,Ben Mcdermott,Australia,Unsold,Wicket-Keeper,5000000,49860.0
+234,Kusal Mendis,Sri Lanka,Unsold,Wicket-Keeper,5000000,49860.0
+235,Kusal Perera,Sri Lanka,Unsold,Wicket-Keeper,5000000,49860.0
+236,Sandeep Warrier,India,Unsold,Bowler,5000000,49860.0
+237,Akila Dhananjaya,Sri Lanka,Unsold,Bowler,5000000,49860.0
+238,Zahir Khan,Afghanistan,Unsold,Bowler,5000000,49860.0
+239,Keshav Maharaj,South Africa,Unsold,Bowler,5000000,49860.0
+240,Waqar Salamkheil,Afghanistan,Unsold,Bowler,5000000,49860.0
+241,Rahul Sharma,India,Unsold,Bowler,5000000,49860.0
+242,Hayden Walsh,West Indies,Unsold,Bowler,5000000,49860.0
+243,Brandon King,West Indies,Unsold,Batsman,5000000,49860.0
+244,Janneman Malan,South Africa,Unsold,Batsman,5000000,49860.0
+245,Paul Stirling,Ireland,Unsold,Batsman,5000000,49860.0
+246,Hanuma Vihari,India,Unsold,Batsman,5000000,49860.0
+247,Hazratullah Zazai,Afghanistan,Unsold,Batsman,5000000,49860.0
+248,Karim Janat,Afghanistan,Unsold,All-Rounder,5000000,49860.0
+249,Pawan Negi,India,Unsold,All-Rounder,5000000,49860.0
+250,Taskin Ahmed,Bangladesh,Unsold,Bowler,5000000,49860.0
+251,Shamrah Brooks,West Indies,Unsold,Batsman,5000000,49860.0
+252,Avishka Fernando,Sri Lanka,Unsold,Batsman,5000000,49860.0
+253,Zubayr Hamza,South Africa,Unsold,Batsman,5000000,49860.0
+254,Pathum Nissaanka,Sri Lanka,Unsold,Batsman,5000000,49860.0
+255,Kurtis Patterson,Australia,Unsold,Batsman,5000000,49860.0
+256,Hashmatullah Shahidi,Afghanistan,Unsold,Batsman,5000000,49860.0
+257,Manoj Tiwary,India,Unsold,Batsman,5000000,49860.0
+258,Gulbadin Naib,Afghanistan,Unsold,All-Rounder,5000000,49860.0
+259,Parvez Rasool,India,Unsold,All-Rounder,5000000,49860.0
+260,Dasun Shanaka,Sri Lanka,Unsold,All-Rounder,5000000,49860.0
+261,Wesley Agar,Australia,Unsold,Bowler,5000000,49860.0
+262,Shoriful Islam,Bangladesh,Unsold,Bowler,5000000,49860.0
+263,Josh Little,Ireland,Unsold,Bowler,5000000,49860.0
+264,Blessing Muzarabani,Zimbabwe,Unsold,Bowler,5000000,49860.0
+265,Jayden Seales,West Indies,Unsold,Bowler,5000000,49860.0
+266,Barinder Sran,India,Unsold,Bowler,5000000,49860.0
+267,Neil Wagner,New Zealand,Unsold,Bowler,5000000,49860.0
+268,Curtis Campher,Ireland,Unsold,All-Rounder,5000000,49860.0
+269,Wayne Parnell,South Africa,Unsold,All-Rounder,5000000,49860.0
+270,Samit Patel,England,Unsold,All-Rounder,5000000,49860.0
+271,Thisara Perera,Sri Lanka,Unsold,All-Rounder,5000000,49860.0
+272,Murali Vijay,India,Unsold,All-Rounder,5000000,49860.0
+273,Jack Wildermuth,Australia,Unsold,All-Rounder,5000000,49860.0
+274,Hamish Bennett,New Zealand,Unsold,Bowler,5000000,49860.0
+275,Daryn Dupavillon,South Africa,Unsold,Bowler,5000000,49860.0
+276,Fidel Edwards,West Indies,Unsold,Bowler,5000000,49860.0
+277,Hamid Hassan,Afghanistan,Unsold,Bowler,5000000,49860.0
+278,Lahiru Kumara,Sri Lanka,Unsold,Bowler,5000000,49860.0
+279,Joel Paris,Australia,Unsold,Bowler,5000000,49860.0
+280,S. Sreesanth,India,Unsold,Bowler,5000000,49860.0
+281,Oshane Thomas,West Indies,Unsold,Bowler,5000000,49860.0
+282,Blair Tickner,New Zealand,Unsold,Bowler,5000000,49860.0
+283,Isuru Udana,Sri Lanka,Unsold,Bowler,5000000,49860.0
+284,Mark Adnair,Ireland,Unsold,All-Rounder,5000000,49860.0
+285,Hilton Cartwright,Australia,Unsold,All-Rounder,5000000,49860.0
+286,Gareth Delany,Ireland,Unsold,All-Rounder,5000000,49860.0
+287,Danushka Gunatilaka,Sri Lanka,Unsold,All-Rounder,5000000,49860.0
+288,Anaru Kitchen,New Zealand,Unsold,All-Rounder,5000000,49860.0
+289,Dhananjaya Lakshan,Sri Lanka,Unsold,All-Rounder,5000000,49860.0
+290,Sisanda Magala,South Africa,Unsold,All-Rounder,5000000,49860.0
+291,Andile Phehlukwayo,South Africa,Unsold,All-Rounder,5000000,49860.0
+292,Seekkuge Prasanna,Sri Lanka,Unsold,All-Rounder,5000000,49860.0
+293,Raymon Reifer,West Indies,Unsold,All-Rounder,5000000,49860.0
+294,Brad Wheal,Scotland,Unsold,Bowler,5000000,49860.0
+295,Sandeep Lamichhane,Nepal,Unsold,Bowler,4000000,39888.0
+296,Tom Kohler-Cadmore,England,Unsold,Batsman,4000000,39888.0
+297,Laurie Evans,England,Unsold,Batsman,4000000,39888.0
+298,Arun Karthick,India,Unsold,Wicket-Keeper,4000000,39888.0
+299,Kennar Lewis,West Indies,Unsold,Wicket-Keeper,4000000,39888.0
+300,Ali Khan,USA,Unsold,Bowler,4000000,39888.0
+301,Chris Green,Australia,Unsold,All-Rounder,4000000,39888.0
+302,Ben Dwarshuis,Australia,Unsold,Bowler,3000000,29916.0
+303,Jalaj Saxena,India,Unsold,Bowler,3000000,29916.0
+304,Matt Kelly,Australia,Unsold,Bowler,3000000,29916.0
+305,Rajat Patidar,India,Unsold,Batsman,2000000,19944.0
+306,Mohammed Azharuddeen,India,Unsold,Wicket-Keeper,2000000,19944.0
+307,Vishnu Solanki,India,Unsold,Wicket-Keeper,2000000,19944.0
+308,M. Siddharth,India,Unsold,Bowler,2000000,19944.0
+309,Sachin Baby,India,Unsold,Batsman,2000000,19944.0
+310,Ricky Bhui,India,Unsold,Batsman,2000000,19944.0
+311,Himanshu Rana,India,Unsold,Batsman,2000000,19944.0
+312,Harnoor Singh,India,Unsold,Batsman,2000000,19944.0
+313,Himmat Singh,India,Unsold,Batsman,2000000,19944.0
+314,Virat Singh,India,Unsold,Batsman,2000000,19944.0
+315,Arzan Nagwaswalla,India,Unsold,Bowler,2000000,19944.0
+316,Akash Singh,India,Unsold,Bowler,2000000,19944.0
+317,Vasu Vats,India,Unsold,Bowler,2000000,19944.0
+318,Mujtaba Yousuf,India,Unsold,Bowler,2000000,19944.0
+319,Tanmay Agarwal,India,Unsold,Batsman,2000000,19944.0
+320,Shivam Chauhan,India,Unsold,Batsman,2000000,19944.0
+321,Nikhil Gangta,India,Unsold,Batsman,2000000,19944.0
+322,Rohan Kadam,India,Unsold,Batsman,2000000,19944.0
+323,Priyank Panchal,India,Unsold,Batsman,2000000,19944.0
+324,Sameer Rizvi,India,Unsold,Batsman,2000000,19944.0
+325,Ritwik Roy Chowdhury,India,Unsold,Batsman,2000000,19944.0
+326,Apoorv Wankhade,India,Unsold,Batsman,2000000,19944.0
+327,Atharva Ankolekar,India,Unsold,All-Rounder,2000000,19944.0
+328,Tanay Thyagarajan,India,Unsold,All-Rounder,2000000,19944.0
+329,Ankush Bains,India,Unsold,Wicket-Keeper,2000000,19944.0
+330,Prashant Chopra,India,Unsold,Wicket-Keeper,2000000,19944.0
+331,Kedar Devdhar,India,Unsold,Wicket-Keeper,2000000,19944.0
+332,Shreevats Goswami,India,Unsold,Wicket-Keeper,2000000,19944.0
+333,Akshdeep Nath,India,Unsold,Wicket-Keeper,2000000,19944.0
+334,Aditya Tare,India,Unsold,Wicket-Keeper,2000000,19944.0
+335,Pankaj Jaswal,India,Unsold,Bowler,2000000,19944.0
+336,Lukman Hussain Meriwala,India,Unsold,Bowler,2000000,19944.0
+337,Vyshak Vijay Kumar,India,Unsold,Bowler,2000000,19944.0
+338,Zeeshan Ansari,India,Unsold,Bowler,2000000,19944.0
+339,Yuvraj Chudasama,India,Unsold,Bowler,2000000,19944.0
+340,Dharmendrasinh Jadeja,India,Unsold,Bowler,2000000,19944.0
+341,Khrievitso Kense,India,Unsold,Bowler,2000000,19944.0
+342,Prince Balwant Rai,India,Unsold,Bowler,2000000,19944.0
+343,Pardeep Sahu,India,Unsold,Bowler,2000000,19944.0
+344,Midhun Sudhesan,India,Unsold,Bowler,2000000,19944.0
+345,Sudip Chatterjee,India,Unsold,Batsman,2000000,19944.0
+346,Hiten Dalal,India,Unsold,Batsman,2000000,19944.0
+347,Abhimanyu Easwaran,India,Unsold,Batsman,2000000,19944.0
+348,Rahul Gahlaut,India,Unsold,Batsman,2000000,19944.0
+349,Amandeep Khare,India,Unsold,Batsman,2000000,19944.0
+350,Mayank Rawat,India,Unsold,Batsman,2000000,19944.0
+351,Dhruv Shorey,India,Unsold,Batsman,2000000,19944.0
+352,Hayden Kerr,Australia,Unsold,All-Rounder,2000000,19944.0
+353,Saurabh Kumar,India,Unsold,All-Rounder,2000000,19944.0
+354,Dhruv Patel,India,Unsold,All-Rounder,2000000,19944.0
+355,Atit Sheth,India,Unsold,All-Rounder,2000000,19944.0
+356,Utkarsh Singh,India,Unsold,All-Rounder,2000000,19944.0
+357,Kaif Ahmad,India,Unsold,Wicket-Keeper,2000000,19944.0
+358,Shubhum Arora,India,Unsold,Wicket-Keeper,2000000,19944.0
+359,Eknath Kerkar,India,Unsold,Wicket-Keeper,2000000,19944.0
+360,Nikhil Naik,India,Unsold,Wicket-Keeper,2000000,19944.0
+361,B.R. Sharath,India,Unsold,Wicket-Keeper,2000000,19944.0
+362,K.L. Shrijith,India,Unsold,Wicket-Keeper,2000000,19944.0
+363,Mohit Avasthi,India,Unsold,Bowler,2000000,19944.0
+364,Sushant Mishra,India,Unsold,Bowler,2000000,19944.0
+365,Matheesha Pathirana,Sri Lanka,Unsold,Bowler,2000000,19944.0
+366,G Periyasamy,India,Unsold,Bowler,2000000,19944.0
+367,M.Harishankar Reddy,India,Unsold,Bowler,2000000,19944.0
+368,R. Silambarasan,India,Unsold,Bowler,2000000,19944.0
+369,Aditya Thakare,India,Unsold,Bowler,2000000,19944.0
+370,Tanveer Ul Haq,India,Unsold,Bowler,2000000,19944.0
+371,Prithviraj Yarra,India,Unsold,Bowler,2000000,19944.0
+372,Satyajeet Bachhav,India,Unsold,Bowler,2000000,19944.0
+373,Chintal Gandhi,India,Unsold,Bowler,2000000,19944.0
+374,Jacob Lintott,England,Unsold,Bowler,2000000,19944.0
+375,Izharulhuq Naveed,Afghanistan,Unsold,Bowler,2000000,19944.0
+376,Tanveer Sangha,Australia,Unsold,Bowler,2000000,19944.0
+377,Manav Suthar,India,Unsold,Bowler,2000000,19944.0
+378,Milind Tandon,India,Unsold,Bowler,2000000,19944.0
+379,Sagar Udeshi,India,Unsold,Bowler,2000000,19944.0
+380,Kushaal Wadhwani,India,Unsold,Bowler,2000000,19944.0
+381,Akshay Wakhare,India,Unsold,Bowler,2000000,19944.0
+382,Qamran Iqbal,India,Unsold,Batsman,2000000,19944.0
+383,Ishank Jaggi,India,Unsold,Batsman,2000000,19944.0
+384,Rohan Kunnummal,India,Unsold,Batsman,2000000,19944.0
+385,Tanmay Mishra,India,Unsold,Batsman,2000000,19944.0
+386,Yash Nahar,India,Unsold,Batsman,2000000,19944.0
+387,Shubham Singh Rohilla,India,Unsold,Batsman,2000000,19944.0
+388,Alex Ross,Australia,Unsold,Batsman,2000000,19944.0
+389,Naushad Shaikh,India,Unsold,Batsman,2000000,19944.0
+390,Baba Aparajith,India,Unsold,All-Rounder,2000000,19944.0
+391,Prayas Barman,India,Unsold,All-Rounder,2000000,19944.0
+392,Shubhang Hegde,India,Unsold,All-Rounder,2000000,19944.0
+393,Roosh Kalaria,India,Unsold,All-Rounder,2000000,19944.0
+394,Tanush Kotian,India,Unsold,All-Rounder,2000000,19944.0
+395,Kaushal Tambe,India,Unsold,All-Rounder,2000000,19944.0
+396,Shivank Vashisth,India,Unsold,All-Rounder,2000000,19944.0
+397,Rahul Chandrol,India,Unsold,Wicket-Keeper,2000000,19944.0
+398,Harvik Desai,India,Unsold,Wicket-Keeper,2000000,19944.0
+399,Cam Fletcher,New Zealand,Unsold,Wicket-Keeper,2000000,19944.0
+400,Tarang Gohel,India,Unsold,Wicket-Keeper,2000000,19944.0
+401,Fazil Makaya,India,Unsold,Wicket-Keeper,2000000,19944.0
+402,Ryan Rickelton,South Africa,Unsold,Wicket-Keeper,2000000,19944.0
+403,Sandeep Kumar Tomar,India,Unsold,Wicket-Keeper,2000000,19944.0
+404,Siddhesh Wath,India,Unsold,Wicket-Keeper,2000000,19944.0
+405,Stephen Cheepurupalli,India,Unsold,Bowler,2000000,19944.0
+406,Aniket Choudhary,India,Unsold,Bowler,2000000,19944.0
+407,Kartikeya Kak,India,Unsold,Bowler,2000000,19944.0
+408,Ronit More,India,Unsold,Bowler,2000000,19944.0
+409,M Nidheesh,India,Unsold,Bowler,2000000,19944.0
+410,Babasafi Pathan,India,Unsold,Bowler,2000000,19944.0
+411,Vidyadhar Patil,India,Unsold,Bowler,2000000,19944.0
+412,Mukesh Kumar Singh,India,Unsold,Bowler,2000000,19944.0
+413,R. Alexandar,India,Unsold,Bowler,2000000,19944.0
+414,Adithya Ashok,New Zealand,Unsold,Bowler,2000000,19944.0
+415,Jasmer Dhankhar,India,Unsold,Bowler,2000000,19944.0
+416,Prerit Dutta,India,Unsold,Bowler,2000000,19944.0
+417,Jon Russ Jaggesar,West Indies,Unsold,Bowler,2000000,19944.0
+418,S. Kishan Kumar,India,Unsold,Bowler,2000000,19944.0
+419,Kevin Koththigoda,Sri Lanka,Unsold,Bowler,2000000,19944.0
+420,Swaraj Wabale,India,Unsold,Bowler,2000000,19944.0
+421,Donavon Ferreira,South Africa,Unsold,Batsman,2000000,19944.0
+422,Bhupen Lalwani,India,Unsold,Batsman,2000000,19944.0
+423,Henan Malik,India,Unsold,Batsman,2000000,19944.0
+424,Pukhraj Mann,India,Unsold,Batsman,2000000,19944.0
+425,Shashwat Rawat,India,Unsold,Batsman,2000000,19944.0
+426,Jake Weatherald,Australia,Unsold,Batsman,2000000,19944.0
+427,Gerald Coetzee,South Africa,Unsold,All-Rounder,2000000,19944.0
+428,Akshay Karnewar,India,Unsold,All-Rounder,2000000,19944.0
+429,Sumit Kumar,India,Unsold,All-Rounder,2000000,19944.0
+430,Abid Mushtaq,India,Unsold,All-Rounder,2000000,19944.0
+431,Lone Muzaffar,India,Unsold,All-Rounder,2000000,19944.0
+432,Ninad Rathva,India,Unsold,All-Rounder,2000000,19944.0
+433,Shoun Roger,India,Unsold,All-Rounder,2000000,19944.0
+434,Jaideep Bhambhu,India,Unsold,Bowler,2000000,19944.0
+435,Nandre Burger,South Africa,Unsold,Bowler,2000000,19944.0
+436,V Koushik,India,Unsold,Bowler,2000000,19944.0
+437,Akash Madhwal,India,Unsold,Bowler,2000000,19944.0
+438,Anuj Raj,India,Unsold,Bowler,2000000,19944.0
+439,Abhijeet Saket,India,Unsold,Bowler,2000000,19944.0
+440,Rahul Shukla,India,Unsold,Bowler,2000000,19944.0
+441,Nuwan Thushara,Sri Lanka,Unsold,Bowler,2000000,19944.0
+442,Amit Ali,India,Unsold,All-Rounder,2000000,19944.0
+443,Chaitanya Bishnoi,India,Unsold,All-Rounder,2000000,19944.0
+444,Migael Pretorius,South Africa,Unsold,All-Rounder,2000000,19944.0
+445,Shivam Sharma,India,Unsold,All-Rounder,2000000,19944.0
+446,Pratyush Singh,India,Unsold,All-Rounder,2000000,19944.0
+447,Dhrushant Soni,India,Unsold,All-Rounder,2000000,19944.0
+448,M Venkatesh,India,Unsold,All-Rounder,2000000,19944.0
+449,Bandaru Ayyappa,India,Unsold,Bowler,2000000,19944.0
+450,Gurnoor Singh Brar,India,Unsold,Bowler,2000000,19944.0
+451,Akash Choudhary,India,Unsold,Bowler,2000000,19944.0
+452,Mohit Jangra,India,Unsold,Bowler,2000000,19944.0
+453,Aaqib Khan,India,Unsold,Bowler,2000000,19944.0
+454,Ruben Trumpelmann,Namibia,Unsold,Bowler,2000000,19944.0
+455,Auqib Dar,India,Unsold,All-Rounder,2000000,19944.0
+456,Chirag Gandhi,India,Unsold,All-Rounder,2000000,19944.0
+457,Sijomon Joseph,India,Unsold,All-Rounder,2000000,19944.0
+458,Anirudha Joshi,India,Unsold,All-Rounder,2000000,19944.0
+459,Shubham Sharma,India,Unsold,All-Rounder,2000000,19944.0
+460,Shubham Singh,India,Unsold,All-Rounder,2000000,19944.0
+461,Arpit Guleria,India,Unsold,Bowler,2000000,19944.0
+462,Vipul Krishna,India,Unsold,Bowler,2000000,19944.0
+463,Safvan Patel,India,Unsold,Bowler,2000000,19944.0
+464,Chinntla Readdi,India,Unsold,Bowler,2000000,19944.0
+465,Manish Reddy,India,Unsold,Bowler,2000000,19944.0
+466,Ravi Sharma,India,Unsold,Bowler,2000000,19944.0
+467,Corbin Bosch,South Africa,Unsold,All-Rounder,2000000,19944.0
+468,Nathan McAndrew,Australia,Unsold,All-Rounder,2000000,19944.0
+469,Diwesh Pathania,India,Unsold,All-Rounder,2000000,19944.0
+470,Shubham Ranjane,India,Unsold,All-Rounder,2000000,19944.0
+471,Tom Rogers,Australia,Unsold,All-Rounder,2000000,19944.0
+472,Johannes Smit,Namibia,Unsold,All-Rounder,2000000,19944.0
+473,Sagar Trivedi,India,Unsold,All-Rounder,2000000,19944.0
+474,Harsh Tyagi,India,Unsold,All-Rounder,2000000,19944.0
+475,R. Vivek,India,Unsold,All-Rounder,2000000,19944.0
+476,R.Sonu Yadav,India,Unsold,All-Rounder,2000000,19944.0
+477,V. Athisayaraj,India,Unsold,Bowler,2000000,19944.0
+478,Ottneil Baartman,South Africa,Unsold,Bowler,2000000,19944.0
+479,M.B. Darshan,India,Unsold,Bowler,2000000,19944.0
+480,V. Gowtham,India,Unsold,Bowler,2000000,19944.0
+481,Khwezi Gumede,South Africa,Unsold,Bowler,2000000,19944.0
+482,Liam Guthrie,Australia,Unsold,Bowler,2000000,19944.0
+483,Liam Hatcher,Australia,Unsold,Bowler,2000000,19944.0
+484,Jay Bista,India,Unsold,All-Rounder,2000000,19944.0
+485,Saurav Chuahan,India,Unsold,All-Rounder,2000000,19944.0
+486,Tajinder Dhillon,India,Unsold,All-Rounder,2000000,19944.0
+487,Dikshanshu Negi,India,Unsold,All-Rounder,2000000,19944.0
+488,Abhishek Raut,India,Unsold,All-Rounder,2000000,19944.0
+489,K.V. Sasikanth,India,Unsold,All-Rounder,2000000,19944.0
+490,Bharat Sharma,India,Unsold,All-Rounder,2000000,19944.0
+491,Amit Yadav,India,Unsold,All-Rounder,2000000,19944.0
+492,Arun Chaprana,India,Unsold,All-Rounder,2000000,19944.0
+493,Ajay Dev Goud,India,Unsold,All-Rounder,2000000,19944.0
+494,Divyang Hinganekar,India,Unsold,All-Rounder,2000000,19944.0
+495,Azim Kazi,India,Unsold,All-Rounder,2000000,19944.0
+496,Sujit Nayak,India,Unsold,All-Rounder,2000000,19944.0
+497,Parth Sahani,India,Unsold,All-Rounder,2000000,19944.0
+498,Ashutosh Sharma,India,Unsold,All-Rounder,2000000,19944.0
+499,Kumar Kartikeya Singh,India,Unsold,All-Rounder,2000000,19944.0
+500,Ravi Chauhan,India,Unsold,All-Rounder,2000000,19944.0
+501,Shafiqullah Ghafari,Afghanistan,Unsold,All-Rounder,2000000,19944.0
+502,M. Mohammed,India,Unsold,All-Rounder,2000000,19944.0
+503,Pulkit Narang,India,Unsold,All-Rounder,2000000,19944.0
+504,Pradosh Paul,India,Unsold,All-Rounder,2000000,19944.0
+505,Pushpendra Singh Rathore,India,Unsold,All-Rounder,2000000,19944.0
+506,Jason Sangha,Australia,Unsold,All-Rounder,2000000,19944.0
+507,Purnank Tyagi,India,Unsold,All-Rounder,2000000,19944.0
+508,Dev Lakra,India,Unsold,All-Rounder,2000000,19944.0
+509,Lakhan Raja,India,Unsold,All-Rounder,2000000,19944.0
+510,Girinath Reddy,India,Unsold,All-Rounder,2000000,19944.0
+511,Siddhant Sharma,India,Unsold,All-Rounder,2000000,19944.0
+512,Matthew Short,Australia,Unsold,All-Rounder,2000000,19944.0
+513,Saurin Thakar,India,Unsold,All-Rounder,2000000,19944.0
+514,Nyeem Young,West Indies,Unsold,All-Rounder,2000000,19944.0
+515,Yuvraj Chaudhary,India,Unsold,All-Rounder,2000000,19944.0
+516,Khizar Dafedar,India,Unsold,All-Rounder,2000000,19944.0
+517,Sahil Dhiwan,India,Unsold,All-Rounder,2000000,19944.0
+518,Arjit Gupta,India,Unsold,All-Rounder,2000000,19944.0
+519,Mickil Jaiswal,India,Unsold,All-Rounder,2000000,19944.0
+520,Ryan John,West Indies,Unsold,All-Rounder,2000000,19944.0
+521,J. Kousik,India,Unsold,All-Rounder,2000000,19944.0
+522,Jitender Pal,India,Unsold,All-Rounder,2000000,19944.0
+523,Jonty Sidhu,India,Unsold,All-Rounder,2000000,19944.0
+524,Yashovardhan Singh,India,Unsold,All-Rounder,2000000,19944.0
+525,Beyers Swanepoel,South Africa,Unsold,All-Rounder,2000000,19944.0
+526,Pranshu Vijayran,India,Unsold,All-Rounder,2000000,19944.0
+527,Ishan Afridi,India,Unsold,All-Rounder,2000000,19944.0
+528,Mohammed Afridi,India,Unsold,All-Rounder,2000000,19944.0
+529,Prerit Agrawal,India,Unsold,All-Rounder,2000000,19944.0
+530,Aidan Cahill,Australia,Unsold,All-Rounder,2000000,19944.0
+531,Mark Deyal,West Indies,Unsold,All-Rounder,2000000,19944.0
+532,Nidhish Rajagopal,India,Unsold,All-Rounder,2000000,19944.0
+533,Bavanaka Sandeep,India,Unsold,All-Rounder,2000000,19944.0
+534,Safyaan Sharif,Scotland,Unsold,All-Rounder,2000000,19944.0
+535,Henry Shipley,New Zealand,Unsold,All-Rounder,2000000,19944.0
+536,Maxwell Swaminathan,India,Unsold,All-Rounder,2000000,19944.0
+537,Johan Van Dyk,South Africa,Unsold,All-Rounder,2000000,19944.0
+538,Dunith Wellalage,Sri Lanka,Unsold,All-Rounder,2000000,19944.0
+539,Agnivesh Ayachi,India,Unsold,All-Rounder,2000000,19944.0
+540,Aaron Hardie,Australia,Unsold,All-Rounder,2000000,19944.0
+541,Lance Morris,Australia,Unsold,Bowler,2000000,19944.0
+542,Nivethan Radhakrishnan,Australia,Unsold,All-Rounder,2000000,19944.0
+543,Rohan Rana,India,Unsold,All-Rounder,2000000,19944.0
+544,K Nitish Reddy,India,Unsold,Batsman,2000000,19944.0
+545,Hardik Tamore,India,Unsold,Wicket-Keeper,2000000,19944.0
+546,Mihir Hirwani,India,Unsold,Bowler,2000000,19944.0
+547,Sairaj Patil,India,Unsold,All-Rounder,2000000,19944.0
+548,Monu Singh,India,Unsold,Bowler,2000000,19944.0
+549,Ben Stokes,Overseas,Chennai Super Kings,All-Rounder,162500000,1620450.0
+550,Kyle Jamieson,Overseas,Chennai Super Kings,Bowler,10000000,99720.0
+551,Nishant Sindhu,India,Chennai Super Kings,All-Rounder,6000000,59832.0
+552,Bhagath Varma,India,Chennai Super Kings,All-Rounder,2000000,19944.0
+553,Shaik Rasheed,India,Chennai Super Kings,Batsman,2000000,19944.0
+554,Mukesh Kumar,India,Delhi Capitals,Bowler,55000000,548460.0
+555,Phil Salt,Overseas,Delhi Capitals,Wicket-Keeper,20000000,199440.0
+556,Joshua Little,Overseas,Gujarat Titans,Bowler,44000000,438768.0
+557,Kane Williamson,Overseas,Gujarat Titans,Batsman,20000000,199440.0
+558,Suyash Sharma,India,Kolkata Knight Riders,Bowler,2000000,19944.0
+559,Swapnil Singh,India,Lucknow Super Giants,All-Rounder,2000000,19944.0
+560,Cameron Green,Overseas,Mumbai Indians,All-Rounder,175000000,1745100.0
+561,Jhye Richardson,Overseas,Mumbai Indians,Bowler,15000000,149580.0
+562,Nehal Wadhera,India,Mumbai Indians,All-Rounder,2000000,19944.0
+563,Raghav Goyal,India,Mumbai Indians,Bowler,2000000,19944.0
+564,Sam Curran,Overseas,Punjab Kings,All-Rounder,185000000,1844820.0
+565,Sikandar Raza,Overseas,Punjab Kings,All-Rounder,5000000,49860.0
+566,Shivam Singh,India,Punjab Kings,All-Rounder,2000000,19944.0
+567,Vidwath Kaverappa,India,Punjab Kings,Bowler,2000000,19944.0
+568,Mohit Rathee,India,Punjab Kings,All-Rounder,2000000,19944.0
+569,Joe Root,Overseas,Rajasthan Royals,Batsman,10000000,99720.0
+570,Donovan Ferreira,Overseas,Rajasthan Royals,Wicket-Keeper,5000000,49860.0
+571,Abdul P A,India,Rajasthan Royals,All-Rounder,2000000,19944.0
+572,Akash Vashisht,India,Rajasthan Royals,All-Rounder,2000000,19944.0
+573,Kunal Rathore,India,Rajasthan Royals,Wicket-Keeper,2000000,19944.0
+574,Will Jacks,Overseas,Royal Challengers Bangalore,Batsman,32000000,319104.0
+575,Rajan Kumar,India,Royal Challengers Bangalore,Bowler,7000000,69804.0
+576,Avinash Singh,India,Royal Challengers Bangalore,Bowler,6000000,59832.0
+577,Sonu Yadav,India,Royal Challengers Bangalore,All-Rounder,2000000,19944.0
+578,Himanshu Sharma,India,Royal Challengers Bangalore,Bowler,2000000,19944.0
+579,Harry Brook,Overseas,Sunrisers Hyderabad,Batsman,132500000,1321290.0
+580,Mayank Agarwal,India,Sunrisers Hyderabad,Batsman,82500000,822690.0
+581,Nitish Kumar Reddy,India,Sunrisers Hyderabad,Wicket-Keeper,2000000,19944.0
+582,Tom Banton,Overseas,Unsold,Wicket-Keeper,20000000,199440.0
+583,Travis Head,Overseas,Unsold,Batsman,20000000,199440.0
+584,Jimmy Neesham,Overseas,Unsold,All-Rounder,20000000,199440.0
+585,Jamie Overton,Overseas,Unsold,All-Rounder,20000000,199440.0
+586,Mujeeb Rahman,Overseas,Unsold,Bowler,10000000,99720.0
+587,Tom Latham,Overseas,Unsold,Wicket-Keeper,10000000,99720.0
+588,Michael Bracewell,Overseas,Unsold,All-Rounder,10000000,99720.0
+589,Luke Wood,Overseas,Unsold,Bowler,10000000,99720.0
+590,Matt Henry,Overseas,Unsold,Bowler,10000000,99720.0
+591,Rahkeem Cornwall,Overseas,Unsold,All-Rounder,10000000,99720.0
+592,Tom Curran,Overseas,Unsold,All-Rounder,7500000,74790.0
+593,Darcy Short,Overseas,Unsold,All-Rounder,7500000,74790.0
+594,David Payne,Overseas,Unsold,Bowler,7500000,74790.0
+595,Johnson Charles,Overseas,Unsold,Wicket-Keeper,5000000,49860.0
+596,Lorcan Tucker,Overseas,Unsold,Wicket-Keeper,5000000,49860.0
+597,Reeza Hendricks,Overseas,Unsold,Batsman,5000000,49860.0
+598,Christiaan Jonker,Overseas,Unsold,Batsman,5000000,49860.0
+599,Harry Tector,Overseas,Unsold,Batsman,5000000,49860.0
+600,Richard Gleeson,Overseas,Unsold,Bowler,5000000,49860.0
+601,Dilshan Madushanka,Overseas,Unsold,Bowler,5000000,49860.0
+602,Afif Hossain,Overseas,Unsold,All-Rounder,5000000,49860.0
+603,Dhananjaya Silva,Overseas,Unsold,All-Rounder,5000000,49860.0
+604,Sheldon Cottrel,Overseas,Unsold,Bowler,5000000,49860.0
+605,Glenton Stuurman,Overseas,Unsold,Bowler,5000000,49860.0
+606,Rehan Ahmed,Overseas,Unsold,All-Rounder,5000000,49860.0
+607,Will Smeed,Overseas,Unsold,Batsman,4000000,39888.0
+608,Jordan Thompson,Overseas,Unsold,All-Rounder,4000000,39888.0
+609,Thomas Helm,Overseas,Unsold,Bowler,4000000,39888.0
+610,James Fuller,Overseas,Unsold,All-Rounder,4000000,39888.0
+611,Shubham Khajuria,India,Unsold,Batsman,2000000,19944.0
+612,Chethan L.R.,India,Unsold,Batsman,2000000,19944.0
+613,Dinesh Bana,India,Unsold,Wicket-Keeper,2000000,19944.0
+614,S Midhun,India,Unsold,Bowler,2000000,19944.0
+615,Akshat Raghuwanshi,India,Unsold,Batsman,2000000,19944.0
+616,Evan Jones,Overseas,Unsold,All-Rounder,2000000,19944.0
+617,Suryansh Shedge,India,Unsold,All-Rounder,2000000,19944.0
+618,Kirant Shinde,India,Unsold,Wicket-Keeper,2000000,19944.0
+619,Ravi Kumar,India,Unsold,Bowler,2000000,19944.0
+620,Paul Van Meekeren,Overseas,Unsold,Bowler,2000000,19944.0
+621,S.Ajith Ram,India,Unsold,Bowler,2000000,19944.0
+622,Peter Hatzoglou,Overseas,Unsold,Bowler,2000000,19944.0
+623,Karthik Meiyappan,Overseas,Unsold,Bowler,2000000,19944.0
+624,Priyansh Arya,India,Unsold,Batsman,2000000,19944.0
+625,Matthew Breetzke,Overseas,Unsold,Batsman,2000000,19944.0
+626,Sudip Gharami,India,Unsold,Batsman,2000000,19944.0
+627,C. Hari Nishaanth,India,Unsold,Batsman,2000000,19944.0
+628,Bhanu Pania,India,Unsold,Batsman,2000000,19944.0
+629,Ekant Sen,India,Unsold,Batsman,2000000,19944.0
+630,Himanshu Bisht,India,Unsold,All-Rounder,2000000,19944.0
+631,G.Aniketh Reddy,India,Unsold,All-Rounder,2000000,19944.0
+632,Tanay Thyagarajann,India,Unsold,All-Rounder,2000000,19944.0
+633,Sumeet Verma,India,Unsold,All-Rounder,2000000,19944.0
+634,Ajitesh Guruswamy,India,Unsold,Wicket-Keeper,2000000,19944.0
+635,Yash Kothari,India,Unsold,Wicket-Keeper,2000000,19944.0
+636,Suresh Kumar,India,Unsold,Wicket-Keeper,2000000,19944.0
+637,Kumar Kushagra,India,Unsold,Wicket-Keeper,2000000,19944.0
+638,Anmol Malhotra,India,Unsold,Wicket-Keeper,2000000,19944.0
+639,Robin Minz,India,Unsold,Wicket-Keeper,2000000,19944.0
+640,Agniv Pan,India,Unsold,Wicket-Keeper,2000000,19944.0
+641,Priyesh Patel,India,Unsold,Wicket-Keeper,2000000,19944.0
+642,Mitesh Patel,India,Unsold,Wicket-Keeper,2000000,19944.0
+643,Abishek Porel,India,Unsold,Wicket-Keeper,2000000,19944.0
+644,Vivek Singh,India,Unsold,Wicket-Keeper,2000000,19944.0
+645,Basit Bashir,India,Unsold,Bowler,2000000,19944.0
+646,Sakib Hussain,India,Unsold,Bowler,2000000,19944.0
+647,Waseem Khanday,India,Unsold,Bowler,2000000,19944.0
+648,Ravi Kiran Majeti,India,Unsold,Bowler,2000000,19944.0
+649,Prince Yadav,India,Unsold,Bowler,2000000,19944.0
+650,Mushtaq Beg,India,Unsold,Bowler,2000000,19944.0
+651,Rocky Bhasker,India,Unsold,Bowler,2000000,19944.0
+652,Sanjith Devaraj,India,Unsold,Bowler,2000000,19944.0
+653,Allah Mohammad,Overseas,Unsold,Bowler,2000000,19944.0
+654,Lalit Mohan,India,Unsold,Bowler,2000000,19944.0
+655,Bhuwan Rohilla,India,Unsold,Bowler,2000000,19944.0
+656,Aman Sharma,India,Unsold,Bowler,2000000,19944.0
+657,Anirudh Balachander,India,Unsold,Batsman,2000000,19944.0
+658,Gourav Choudhary,India,Unsold,Batsman,2000000,19944.0
+659,Kumar Deobrat,India,Unsold,Batsman,2000000,19944.0
+660,Arman Jaffer,India,Unsold,Batsman,2000000,19944.0
+661,Madhav Kaushik,India,Unsold,Batsman,2000000,19944.0
+662,Ayush Pandey,India,Unsold,Batsman,2000000,19944.0
+663,Rohan Patil,India,Unsold,Batsman,2000000,19944.0
+664,Sanjay Ramaswamy,India,Unsold,Batsman,2000000,19944.0
+665,Siddharth Yadav,India,Unsold,Batsman,2000000,19944.0
+666,Vaisakh Chandran,India,Unsold,All-Rounder,2000000,19944.0
+667,Harsh Dubey,India,Unsold,All-Rounder,2000000,19944.0
+668,B. Surya,India,Unsold,All-Rounder,2000000,19944.0
+669,Christopher Benjamin,Overseas,Unsold,Wicket-Keeper,2000000,19944.0
+670,Connor Esterhuizen,Overseas,Unsold,Wicket-Keeper,2000000,19944.0
+671,Mohd Arslan Khan,India,Unsold,Wicket-Keeper,2000000,19944.0
+672,Mamidi Krishna,India,Unsold,Wicket-Keeper,2000000,19944.0
+673,Deepak Punia,India,Unsold,Wicket-Keeper,2000000,19944.0
+674,Ateev Saini,India,Unsold,Wicket-Keeper,2000000,19944.0
+675,Bipin Saurabh,India,Unsold,Wicket-Keeper,2000000,19944.0
+676,Lakshay Thareja,India,Unsold,Wicket-Keeper,2000000,19944.0
+677,Shahrukh Dar,India,Unsold,Bowler,2000000,19944.0
+678,Venkatesh Muralidhara,India,Unsold,Bowler,2000000,19944.0
+679,Geet Puri,India,Unsold,Bowler,2000000,19944.0
+680,E. Sanketh,India,Unsold,Bowler,2000000,19944.0
+681,Ajay Sarkar,India,Unsold,Bowler,2000000,19944.0
+682,Kanwar Singh,India,Unsold,Bowler,2000000,19944.0
+683,Shivam Chaudhary,India,Unsold,All-Rounder,2000000,19944.0
+684,Ashwin Das,India,Unsold,All-Rounder,2000000,19944.0
+685,Chirag Jani,India,Unsold,All-Rounder,2000000,19944.0
+686,Bhagmender Lather,India,Unsold,All-Rounder,2000000,19944.0
+687,Rohit Rayudu,India,Unsold,All-Rounder,2000000,19944.0
+688,Tunish Sawkar,India,Unsold,All-Rounder,2000000,19944.0
+689,Mukhtar Hussain,India,Unsold,Bowler,2000000,19944.0
+690,Ashwani Kumar,India,Unsold,Bowler,2000000,19944.0
+691,Hemant Kumar,India,Unsold,Bowler,2000000,19944.0
+692,Rajesh Mohanty,India,Unsold,Bowler,2000000,19944.0
+693,Vikash Singh,India,Unsold,Bowler,2000000,19944.0
+694,Koushik Vasuki,India,Unsold,Bowler,2000000,19944.0
+695,Shubham Agrawal,India,Unsold,All-Rounder,2000000,19944.0
+696,Anshul Kamboj,India,Unsold,All-Rounder,2000000,19944.0
+697,Avneesh Sudha,India,Unsold,All-Rounder,2000000,19944.0
+698,Asad Jamil Ahmed,India,Unsold,Bowler,2000000,19944.0
+699,Aashish Bhatt,India,Unsold,Bowler,2000000,19944.0
+700,McKenny Clarke,Overseas,Unsold,Bowler,2000000,19944.0
+701,Shubham Kapse,India,Unsold,Bowler,2000000,19944.0
+702,Gourav Koul,India,Unsold,Bowler,2000000,19944.0
+703,Raunak Kumar,India,Unsold,Bowler,2000000,19944.0
+704,Trilok Nag,India,Unsold,Bowler,2000000,19944.0
+705,Atal Bihari Rai,India,Unsold,Bowler,2000000,19944.0
+706,Ramon Simmonds,Overseas,Unsold,Bowler,2000000,19944.0
+707,Rajeev Singh,India,Unsold,Bowler,2000000,19944.0
+708,Mohd. Wasim,India,Unsold,Bowler,2000000,19944.0
+709,Naman Dhir,India,Unsold,All-Rounder,2000000,19944.0
+710,Sampark Gupta,India,Unsold,All-Rounder,2000000,19944.0
+711,Jordan Hermann,Overseas,Unsold,All-Rounder,2000000,19944.0
+712,Salman Khan,India,Unsold,All-Rounder,2000000,19944.0
+713,Divyaansh Saxena,India,Unsold,All-Rounder,2000000,19944.0
+714,Deepraj Gaonkar,India,Unsold,All-Rounder,2000000,19944.0
+715,Deepesh Nailwal,India,Unsold,All-Rounder,2000000,19944.0
+716,Arjun Rapria,India,Unsold,All-Rounder,2000000,19944.0
+717,Sumit Ruikar,India,Unsold,All-Rounder,2000000,19944.0
+718,Rajandeep Singh,India,Unsold,All-Rounder,2000000,19944.0
+719,Digvesh Singh,India,Unsold,All-Rounder,2000000,19944.0
+720,Ramakrishna Ghosh,India,Unsold,All-Rounder,2000000,19944.0
+721,Shamshuzama Kazi,India,Unsold,All-Rounder,2000000,19944.0
+722,Ayaz Khan,India,Unsold,All-Rounder,2000000,19944.0
+723,Amit Pachhara,India,Unsold,All-Rounder,2000000,19944.0
+724,Akul Pandove,India,Unsold,All-Rounder,2000000,19944.0
+725,Garv Sangwan,India,Unsold,All-Rounder,2000000,19944.0
+726,Rishabh Chauhan,India,Unsold,All-Rounder,2000000,19944.0
+727,Matthew Forde,Overseas,Unsold,All-Rounder,2000000,19944.0
+728,Sammar Gajjar,India,Unsold,All-Rounder,2000000,19944.0
+729,Rajneesh Gurbani,India,Unsold,All-Rounder,2000000,19944.0
+730,Divyansh Joshi,India,Unsold,All-Rounder,2000000,19944.0
+731,Jack Prestwidge,Overseas,Unsold,All-Rounder,2000000,19944.0
+732,Aditya Sarvate,India,Unsold,All-Rounder,2000000,19944.0
+733,Sagar Solanki,India,Unsold,All-Rounder,2000000,19944.0
+734,Prenelan Subrayen,Overseas,Unsold,All-Rounder,2000000,19944.0
+735,Ajinkya Rahane,India,Chennai Super Kings,Batsman,5000000,49860.0
+736,Ajay Mandal,India,Chennai Super Kings,All-Rounder,2000000,19944.0
+737,Rilee Rossouw,Overseas,Delhi Capitals,Batsman,46000000,458712.0
+738,Manish Pandey,India,Delhi Capitals,Batsman,24000000,239328.0
+739,Ishant Sharma,India,Delhi Capitals,Bowler,5000000,49860.0
+740,Shivam Mavi,India,Gujarat Titans,Bowler,60000000,598320.0
+741,K.S. Bharat,India,Gujarat Titans,Wicket-Keeper,12000000,119664.0
+742,Mohit Sharma,India,Gujarat Titans,Bowler,5000000,49860.0
+743,Odean Smith,Overseas,Gujarat Titans,All-Rounder,5000000,49860.0
+744,Urvil Patel,India,Gujarat Titans,Wicket-Keeper,2000000,19944.0
+745,Shakib Al Hasan,Overseas,Kolkata Knight Riders,All-Rounder,15000000,149580.0
+746,David Wiese,Overseas,Kolkata Knight Riders,All-Rounder,10000000,99720.0
+747,N. Jagadeesan,India,Kolkata Knight Riders,Wicket-Keeper,9000000,89748.0
+748,Vaibhav Arora,India,Kolkata Knight Riders,Bowler,6000000,59832.0
+749,Mandeep Singh,India,Kolkata Knight Riders,Batsman,5000000,49860.0
+750,Litton Das,Overseas,Kolkata Knight Riders,Wicket-Keeper,5000000,49860.0
+751,Kulwant Khejroliya,India,Kolkata Knight Riders,Bowler,2000000,19944.0
+752,Nicholas Pooran,Overseas,Lucknow Super Giants,Wicket-Keeper,160000000,1595520.0
+753,Daniel Sams,Overseas,Lucknow Super Giants,All-Rounder,7500000,74790.0
+754,Amit Mishra,India,Lucknow Super Giants,Bowler,5000000,49860.0
+755,Romario Shepherd,Overseas,Lucknow Super Giants,All-Rounder,5000000,49860.0
+756,Naveen Ul Haq,Overseas,Lucknow Super Giants,Bowler,5000000,49860.0
+757,Jaydev Unadkat,India,Lucknow Super Giants,Bowler,5000000,49860.0
+758,Yash Thakur,India,Lucknow Super Giants,Bowler,4500000,44874.0
+759,Yudhvir Charak,India,Lucknow Super Giants,All-Rounder,2000000,19944.0
+760,Prerak Mankad,India,Lucknow Super Giants,All-Rounder,2000000,19944.0
+761,Piyush Chawla,India,Mumbai Indians,Bowler,5000000,49860.0
+762,Vishnu Vinod,India,Mumbai Indians,Wicket-Keeper,2000000,19944.0
+763,Duan Jansen,Overseas,Mumbai Indians,All-Rounder,2000000,19944.0
+764,Shams Mulani,India,Mumbai Indians,All-Rounder,2000000,19944.0
+765,Harpreet Bhatia,India,Punjab Kings,Batsman,4000000,39888.0
+766,Jason Holder,Overseas,Rajasthan Royals,All-Rounder,57500000,573390.0
+767,Adam Zampa,Overseas,Rajasthan Royals,Bowler,15000000,149580.0
+768,K.M. Asif,India,Rajasthan Royals,Bowler,3000000,29916.0
+769,Murugan Ashwin,India,Rajasthan Royals,Bowler,2000000,19944.0
+770,Reece Topley,Overseas,Royal Challengers Bangalore,Bowler,19000000,189468.0
+771,Manoj Bhandage,India,Royal Challengers Bangalore,All-Rounder,2000000,19944.0
+772,Heinrich Klaasen,Overseas,Sunrisers Hyderabad,Wicket-Keeper,52500000,523530.0
+773,Vivrant Sharma,India,Sunrisers Hyderabad,All-Rounder,26000000,259272.0
+774,Adil Rashid,Overseas,Sunrisers Hyderabad,Bowler,20000000,199440.0
+775,Mayank Dagar,India,Sunrisers Hyderabad,All-Rounder,18000000,179496.0
+776,Akeal Hosein,Overseas,Sunrisers Hyderabad,Bowler,10000000,99720.0
+777,Mayank Markande,India,Sunrisers Hyderabad,Bowler,5000000,49860.0
+778,Upendra Singh Yadav,India,Sunrisers Hyderabad,Wicket-Keeper,2500000,24930.0
+779,Sanvir Singh,India,Sunrisers Hyderabad,All-Rounder,2000000,19944.0
+780,Anmolpreet Singh,India,Sunrisers Hyderabad,Batsman,2000000,19944.0
+781,Samarth Vyas,India,Sunrisers Hyderabad,All-Rounder,2000000,19944.0
