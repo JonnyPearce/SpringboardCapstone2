@@ -1,1 +1,8 @@
-# SpringboardCapstone2
+International Men’s Cricket – Predicting the Market Value of Individual Cricketers in the India Premier League
+
+Cricket is a major international sporting business. Identifying players or teams with the highest chance of success is a highly lucrative business, both for traditional cricketing formats, but particularly for national or international cricketing franchises. Although a global sport, the largest international cricket market is in India, based upon its own domestic cricket product, but also through its leading “cricketing product”, the India Premier League (IPL), an annual international cricket franchise in which players from all the over the world participate in an auction where each franchise/team purchases its players for each season – see here for more information - https://www.iplt20.com . The most recent market value for the IPL brand as a whole put it at US$4.7bn for the 2021 season. 
+
+Choosing the right players for your team (whether for international competition or commercial competition) is big business. Being able to predict the right value for the best players and knowing which ones to avoid is crucial to both sporting and economic success.
+
+Using data from the IPL’s player auction and linking it with individual cricketer’s performance data from previous leagues, this project aims to develop a model that can learn from previous auctions and player performance to predict a likely or realistic value or price for new or experienced/upcoming players. Overpaid upstarts or worth their weight in gold? What makes the most valuable IPL player and are they worth it? That’s what the project aims to find out.
+
