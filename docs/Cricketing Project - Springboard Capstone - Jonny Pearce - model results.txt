@@ -1,0 +1,10 @@
+Cricketing Project - Springboard Capstone - Jonny Pearce - April 2023
+Model results
+
+             Algorithm  Model accuracy score
+0    Linear Regression              0.495352
+1              RidgeCV              0.495325
+2                Lasso              0.495871
+3        Random Forest              0.302707
+4  Random Forest-tuned              0.453780
+
